@@ -1,2 +1,2 @@
 # flutter_mapbox
-Flutter mapbox map application
+Flutter mapbox map application (lib only)
